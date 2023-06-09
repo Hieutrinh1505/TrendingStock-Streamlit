@@ -24,7 +24,7 @@ To run this project locally, please follow these steps:
 
 2. Install the required dependencies: `pip install -r requirements.txt`
 
-3. Run the project: `python stock.py`
+3. Run the project: `streamlit run stock.py`
 
 ## Usage
 
